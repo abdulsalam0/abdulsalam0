@@ -18,6 +18,6 @@
 
 ### Stats 📊
 <p align="center"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdulsalam0&show_icons=true&theme=dark" alt="aakarshteja_stats" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdulsalam0&show_icons=true&theme=dark&icon_color=1ed9cf" alt="aakarshteja_stats" /> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsalam0&layout=compact&theme=dark" alt="aakarshteja_stats" />
 </p>
