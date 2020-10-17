@@ -11,7 +11,7 @@ I'm a master student pursuing degree software engineering 🎓 from Lancaster Un
 
 ### Technologies & Tools 🛠
 
-<table align="center"><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="33%">
 
 ### Frontend  
 <div align="center">  
