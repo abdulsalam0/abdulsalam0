@@ -14,5 +14,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=abdulsalam0&show_icons=true" /></p>
+<p><img width="50%" src="https://github-readme-stats.vercel.app/api?username=abdulsalam0&show_icons=true" /></p>
 
