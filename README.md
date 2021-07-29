@@ -3,7 +3,7 @@
 I'm a master software engineering graduate 🎓 from Lancaster University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems. Other thing I enjoy doing is playing football⚽. I'm currently into mobile app development📱 and working on my UI/UX 🤓.
 
 ### About Me 🤓
-- 🔭 I’m currently working on VR classroom system which can be ran mobile devices using A-frame.
+- 🔭 I’m currently looking into blockchain tech and trying to deploy my first smart contract.
 - 🌱 I’m currently learning new design concepts and develop solid UI.
 - 👯 I’m looking to collaborate to more open source project.
 - 🤔 I’m looking for help with understanding beautiful software design.
@@ -29,8 +29,6 @@ I'm a master software engineering graduate 🎓 from Lancaster University 🏛. 
 
 </td><td valign="top" width="33%">
 
-
-
 ### Backend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
@@ -50,8 +48,6 @@ I'm a master software engineering graduate 🎓 from Lancaster University 🏛. 
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### DevOps  
 <div align="center">  
