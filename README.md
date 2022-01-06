@@ -1,12 +1,12 @@
 ### Hi there <img src="assests/gifs/Hi.gif" width="30px">
-
-I'm a master software engineering graduate 🎓 from Lancaster University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems. Other thing I enjoy doing is playing football⚽. I'm currently into mobile app development📱 and working on my UI/UX 🤓.
+How did you end up on my profile??? 
+<br>I would never know why you would come over here but welcome! 
 
 ### About Me 🤓
-- 🔭 I’m currently looking into blockchain tech and trying to deploy my first smart contract.
-- 🌱 I’m currently learning new design concepts and develop solid UI.
+- 🔭 I’m currently looking into Django and learning about backend development.
+- 🌱 I’m currently learning new about blender and how I can create 3D art.
 - 👯 I’m looking to collaborate to more open source project.
-- 🤔 I’m looking for help with understanding beautiful software design.
+- 🤔 I’m looking for help with 🐛.
 - 💬 Ask me about my journey in the software world.
 
 ### Technologies & Tools 🛠
