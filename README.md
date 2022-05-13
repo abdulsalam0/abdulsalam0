@@ -1,10 +1,7 @@
-### Hi there <img src="assests/gifs/Hi.gif" width="30px">
-How did you end up on my profile??? 
-<br>I would never know why you would come over here but welcome! 
-
+# Hi there <img src="assests/gifs/Hi.gif" width="30px">
 ### About Me 🤓
-- 🔭 I’m currently looking into Django and learning about backend development.
-- 🌱 I’m currently learning new about blender and how I can create 3D art.
+- 🔭 I’m currently looking into Cloud-Native technologies and learning about Kubernetes.
+- 🌱 I’m currently trying to get certified and achieve some IT certifications from CompTIA.
 - 👯 I’m looking to collaborate to more open source project.
 - 🤔 I’m looking for help with 🐛.
 - 💬 Ask me about my journey in the software world.
