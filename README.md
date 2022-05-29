@@ -1,10 +1,26 @@
 # Hi there <img src="assests/gifs/Hi.gif" width="30px">
 ### About Me 🤓
-- 🔭 I’m currently looking into Cloud-Native technologies and learning about Kubernetes.
+### List of Technologies I am learning:
+
+- Kubernetes - Orchestration Tool
+- Terraform - IaaC
+- AWS - Cloud Provider
+- Docker - Containerisation Tool
+- Ansible - CI Tool
+- Jenkins - CI Tool
+
+When it come to IT I am working toward getting certified with some security certifications and CompTIA certification like:
+
+- CompTIA A+
+- CompTIA Network+
+- Security Focused Certifications
+    - CompTIA Security+
+    - BTL1
+<!-- - 🔭 I’m currently looking into Cloud-Native technologies and learning about Kubernetes.
 - 🌱 I’m currently trying to get certified and achieve some IT certifications from CompTIA.
 - 👯 I’m looking to collaborate to more open source project.
 - 🤔 I’m looking for help with 🐛.
-- 💬 Ask me about my journey in the software world.
+- 💬 Ask me about my journey in the software world. -->
 
 ### Technologies & Tools 🛠
 
