@@ -3,7 +3,7 @@
 ### List of Technologies I am learning:
 
 - Kubernetes - Orchestration Tool
-- Terraform - IaaC
+- Terraform - IaC
 - AWS - Cloud Provider
 - Docker - Containerisation Tool
 - Ansible - CI Tool
