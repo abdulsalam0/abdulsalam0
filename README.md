@@ -9,16 +9,9 @@
 - Ansible - CI Tool
 - Jenkins - CI Tool
 
-When it come to IT I am working toward getting certified with some security certifications and CompTIA certification like:
-
-- CompTIA A+
-- CompTIA Network+
-- Security Focused Certifications
-    - CompTIA Security+
-    - BTL1
-<!-- - 🔭 I’m currently looking into Cloud-Native technologies and learning about Kubernetes.
-- 🌱 I’m currently trying to get certified and achieve some IT certifications from CompTIA.
-- 👯 I’m looking to collaborate to more open source project.
+<!-- - 🔭 I’m looking into Cloud-Native technologies and learning about Kubernetes.
+- 🌱 I’m trying to get certified and complete IT certifications from CompTIA.
+- 👯 I’m looking to collaborate on more open-source projects.
 - 🤔 I’m looking for help with 🐛.
 - 💬 Ask me about my journey in the software world. -->
 
