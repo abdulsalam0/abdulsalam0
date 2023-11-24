@@ -1,5 +1,4 @@
 # Hi there <img src="assests/gifs/Hi.gif" width="30px" height="30px">
-### About Me 🤓
 ### List of Technologies I am learning:
 
 - Kubernetes - Orchestration Tool
